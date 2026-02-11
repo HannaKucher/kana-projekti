@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/ankok/Desktop/proekti/Packages/manifest.json
+    m_FilePath: "C:/Users/ankok/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/kana-projekti/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 639064354336601176
     m_Hash: 1907927753
   m_LockFileStatus:
-    m_FilePath: C:/Users/ankok/Desktop/proekti/Packages/packages-lock.json
+    m_FilePath: "C:/Users/ankok/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/kana-projekti/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/ankok/Desktop/proekti/Packages
+m_ProjectPath: "C:/Users/ankok/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/kana-projekti/Packages"
 m_EditorVersion: 6000.3.3f1 (ef04196de0d6)
 m_ResolvedPackages:
 - packageId: com.unity.multiplayer.center@1.0.1
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\ankok\Desktop\proekti\Library\PackageCache\com.unity.multiplayer.center@f01f4ba8d00a
+  resolvedPath: "C:\\Users\\ankok\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\kana-projekti\\Library\\PackageCache\\com.unity.multiplayer.center@f01f4ba8d00a"
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
